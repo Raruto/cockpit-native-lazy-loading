@@ -6,7 +6,7 @@ Native lazy loading module for [Cockpit CMS](http://getcockpit.com/)
 
 ### Manual
 
-Download [latest release](https://github.com/Raruto/cockpit-native-lazy-loading) and extract to `COCKPIT_PATH/addons/NativeLazyLoading` directory
+Download [latest release](https://github.com/Raruto/cockpit-native-lazy-loading/releases/latest) and extract to `COCKPIT_PATH/addons/NativeLazyLoading` directory
 
 ### Git
 
