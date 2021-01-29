@@ -1,6 +1,6 @@
 # cockpit-native-lazy-loading
 
-Native lazy loading module for [Cockpit CMS](http://getcockpit.com/)
+Native lazy loading addon for [Cockpit CMS](http://getcockpit.com/)
 
 ## Features
 
