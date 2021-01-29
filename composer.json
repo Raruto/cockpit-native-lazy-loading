@@ -2,7 +2,7 @@
     "name": "raruto/cockpit-native-lazy-loading",
     "description": "Native lazy loading module for Cockpit CMS",
     "homepage": "https://github.com/Raruto/cockpit-native-lazy-loading/",
-    "keywords": ["cockpit", "lazy-loading", "module"],
+    "keywords": ["cockpit", "lazy-loading", "addon"],
     "type": "cockpit-module",
     "license": "MIT",
     "authors": [
